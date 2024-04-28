@@ -1,0 +1,78 @@
+circuit_id,circuit_name,NumberOfLaps,geography_id,circuit_ref
+155,Albert Park Grand Prix Circuit,10,412,albert_park
+156,Sepang International Circuit,18,413,sepang
+157,Bahrain International Circuit,7,414,bahrain
+158,Circuit de Barcelona-Catalunya,109,415,catalunya
+159,Istanbul Park,130,416,istanbul
+160,Circuit de Monaco,7,417,monaco
+161,Circuit Gilles Villeneuve,13,418,villeneuve
+162,Circuit de Nevers Magny-Cours,228,419,magny_cours
+163,Silverstone Circuit,153,420,silverstone
+164,Hockenheimring,103,421,hockenheimring
+165,Hungaroring,264,422,hungaroring
+166,Valencia Street Circuit,4,423,valencia
+167,Circuit de Spa-Francorchamps,401,424,spa
+168,Autodromo Nazionale di Monza,162,425,monza
+169,Marina Bay Street Circuit,18,426,marina_bay
+170,Fuji Speedway,583,427,fuji
+171,Shanghai International Circuit,5,428,shanghai
+172,Autódromo José Carlos Pace,785,429,interlagos
+173,Indianapolis Motor Speedway,223,430,indianapolis
+174,Nürburgring,578,431,nurburgring
+175,Autodromo Enzo e Dino Ferrari,37,432,imola
+176,Suzuka Circuit,45,433,suzuka
+177,Las Vegas Strip Street Circuit,11,434,vegas
+178,Yas Marina Circuit,3,435,yas_marina
+179,Autódromo Juan y Oscar Gálvez,8,436,galvez
+180,Circuito de Jerez,37,437,jerez
+181,Autódromo do Estoril,130,438,estoril
+182,Okayama International Circuit,266,439,okayama
+183,Adelaide Street Circuit,58,440,adelaide
+184,Kyalami,1460,441,kyalami
+185,Donington Park,88,442,donington
+186,Autódromo Hermanos Rodríguez,2227,443,rodriguez
+187,Phoenix street circuit,345,444,phoenix
+188,Circuit Paul Ricard,432,445,ricard
+189,Korean International Circuit,0,446,yeongam
+190,Autódromo Internacional Nelson Piquet,1126,447,jacarepagua
+191,Detroit Street Circuit,177,448,detroit
+192,Brands Hatch,145,449,brands_hatch
+193,Circuit Park Zandvoort,6,450,zandvoort
+194,Zolder,36,451,zolder
+195,Dijon-Prenois,484,452,dijon
+196,Fair Park,139,453,dallas
+197,Long Beach,12,454,long_beach
+198,Las Vegas Street Circuit,639,455,las_vegas
+199,Jarama,609,456,jarama
+200,Watkins Glen,485,457,watkins_glen
+201,Scandinavian Raceway,153,458,anderstorp
+202,Mosport International Raceway,332,459,mosport
+203,Montjuïc,79,460,montjuic
+204,Nivelles-Baulers,139,461,nivelles
+205,Charade Circuit,790,462,charade
+206,Circuit Mont-Tremblant,214,463,tremblant
+207,Rouen-Les-Essarts,81,464,essarts
+208,Le Mans,67,465,lemans
+209,Reims-Gueux,88,466,reims
+210,Prince George Circuit,15,467,george
+211,Zeltweg,676,468,zeltweg
+212,Aintree,20,469,aintree
+213,Circuito da Boavista,28,470,boavista
+214,Riverside International Raceway,470,471,riverside
+215,AVUS,53,472,avus
+216,Monsanto Park Circuit,158,473,monsanto
+217,Sebring International Raceway,18,474,sebring
+218,Ain Diab,19,475,ain-diab
+219,Pescara Circuit,129,476,pescara
+220,Circuit Bremgarten,551,477,bremgarten
+221,Circuit de Pedralbes,85,478,pedralbes
+222,Buddh International Circuit,194,479,buddh
+223,Circuit of the Americas,161,480,americas
+224,Red Bull Ring,678,481,red_bull_ring
+225,Sochi Autodrom,2,482,sochi
+226,Baku City Circuit,-7,483,baku
+227,Autódromo Internacional do Algarve,108,484,portimao
+228,Autodromo Internazionale del Mugello,255,485,mugello
+229,Jeddah Corniche Circuit,15,486,jeddah
+230,Losail International Circuit,18,487,losail
+231,Miami International Autodrome,9,488,miami
